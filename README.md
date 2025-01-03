@@ -1,2 +1,2 @@
-# n-gram-LM
+# n-gram LM
 generating literature based on tiny shakespeare dataset
